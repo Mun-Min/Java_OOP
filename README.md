@@ -10,15 +10,20 @@ This repository serves as a resource for learning and practicing Java OOP concep
 
 Feel free to explore each project's directory for detailed information, code samples, and exercises.
 
-[Fahrenheit_to_Kelvin](./Projects_01/Fahrenheit_to_Kelvin)
+---
 
-[Meters_to_Feet_and_Inches](./Projects_01/Meters_to_Feet_and_Inches)
+#### Project Set #1
+  * [Fahrenheit_to_Kelvin](./Projects_01/Fahrenheit_to_Kelvin)
 
-[Names_to_Initials](./Projects_01/Name_to_Initials)
+  * [Meters_to_Feet_and_Inches](./Projects_01/Meters_to_Feet_and_Inches)
 
-[Diff_Between_Min_and_Max](./Projects_01/Diff_Between_Min_and_Max)
+  * [Names_to_Initials](./Projects_01/Name_to_Initials)
 
-[Make_Box](./Projects_01/Make_Box)
+  * [Diff_Between_Min_and_Max](./Projects_01/Diff_Between_Min_and_Max)
+
+  * [Make_Box](./Projects_01/Make_Box)
+
+---
 
 ### Requirements
 
@@ -43,6 +48,8 @@ Utilizing Conda Environment for Java:
 
 [Optional] Integrated Development Environment (IDE) such as IntelliJ IDEA or Eclipse for an enhanced development experience. However, using a plain text editor and command-line tools will also suffice.
 
+---
+
 ### Usage
 
 To use the projects in this repository, follow these steps:
@@ -65,3 +72,5 @@ Example of how to utilize `cd` command in Git Version Control Terminal:
 Follow the instructions provided in the project's README or source files to understand the concepts and complete any exercises or tasks.
 
 Experiment with the code, modify it, and adapt it to further your understanding of Java OOP.
+
+---

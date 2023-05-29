@@ -18,7 +18,7 @@ Write a java program that will collect the following 4 inputs from the user:
 * Height of the box
 * Border character
 * Interior character
-* Your program must collect the inputs in the order described above.
+* Your program must collect the inputs in the order described above
 * With these inputs, your program must print out a box made of the border and interior characters, and with the specified height and width
 
 ### Example Output 
