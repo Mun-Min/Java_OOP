@@ -64,3 +64,7 @@ You must also write a small program in the main method that will:
 * A double quote mark is a common notation for a value specified in Inches. For example 7.5 Inches is often expressed as 7.5"
 * You may need to cast or convert some values from one data type to another.
 * Remember that you can use String.format to construct a String value with a specified number of decimal places.
+
+### Solution 
+
+[Converter.java](https://github.com/Mun-Min/Java_OOP/blob/main/Individual_Assignments_01/Meters_to_Feet_and_Inches/Converter.java)
