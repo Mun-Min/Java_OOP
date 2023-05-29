@@ -13,7 +13,7 @@ Feel free to explore each project's directory for detailed information, code sam
 
 [Meters_to_Feet_and_Inches](./Projects_01/Meters_to_Feet_and_Inches)
 
-[Names_to_Initials](./Projects_01/Names_to_Initials)
+[Names_to_Initials](./Projects_01/Name_to_Initials)
 
 ### Requirements
 To run and experiment with the projects in this repository, ensure that you have the following:
