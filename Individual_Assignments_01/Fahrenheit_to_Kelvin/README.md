@@ -38,6 +38,7 @@ store the value returned by the FahrenheitToKelvin method in another double vari
     Enter temperature in Fahrenheit : -20.25
 
     -20.25 degrees Fahrenheit is 244.12 Kelvin
+    
     For the given inputs, make sure that your program output looks exactly like the examples above (including spelling, capitalization, punctuation, spaces, and decimal points).
 
 ### Helpful Info: Fahrenheit to Kelvin formula

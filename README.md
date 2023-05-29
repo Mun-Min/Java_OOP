@@ -11,9 +11,15 @@ Feel free to explore each project's directory for detailed information, code sam
 
 [Fahrenheit_to_Kelvin](./Individual_Assignments_01/Fahrenheit_to_Kelvin)
 
+[Meters_to_Feet_and_Inches](./Individual_Assignments_01/Meters_to_Feet_and_Inches)
+
 
 ### Requirements
 To run and experiment with the projects in this repository, ensure that you have the following:
+
+Java Version: 
+
+    openjdk 17.0.3
 
 Utilizing Conda Environment for Java: 
 
@@ -23,7 +29,8 @@ Utilizing Conda Environment for Java:
 
     conda install -c conda-forge openjdk
 
-    If you intend to use Java with a specific IDE, such as Jupyter Notebook, you can install additional packages that enable Java support. For example, to install the ijava kernel for Jupyter Notebook:
+    If you intend to use Java with a specific IDE, such as Jupyter Notebook, you can install additional packages that enable Java support. 
+    For example, install the ijava kernel for Jupyter Notebook:
 
     conda install -c conda-forge ijava
 
