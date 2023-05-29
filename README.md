@@ -18,6 +18,8 @@ Feel free to explore each project's directory for detailed information, code sam
 
 [Diff_Between_Min_and_Max](./Projects_01/Diff_Between_Min_and_Max)
 
+[Make_Box](./Projects_01/Make_Box)
+
 ### Requirements
 
 To run and experiment with the projects in this repository, ensure that you have the following:

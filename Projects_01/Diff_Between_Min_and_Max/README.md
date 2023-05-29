@@ -3,6 +3,7 @@
 ### Required Skills Inventory
 
 * Use variables to name, store, and retrieve values
+
 * Write a method according to given specifications
 * Write a method that takes arguments and returns a value
 * Use parameter variables in a method body
@@ -12,10 +13,11 @@
 
 ### Problem Description and Given Info
 
-* Write a public static method named DiffMinMax that will take three arguments of type int and will return a int. 
-* When called, and passed three int values, this method must compute and return the positive difference between the minimum and maximum of the three argument values.
+* Write a public static method named DiffMinMax that will take three arguments of type int and will return a int
 
-Here are some examples of what the method should return for various sets of argument values:
+* When called, and passed three int values, this method must compute and return the positive difference between the minimum and maximum of the three argument values
+
+### Example Output 
 
     DiffMinMax(1, 2, 3)     should return 2
 
@@ -28,7 +30,8 @@ Here are some examples of what the method should return for various sets of argu
 ### Helpful Info:
 
 * You will need to write code to determine the minimum and the maximum argument values passed to the method
-* Do not use Math.min or Math.max methods for this assignment.
+
+* Do not use Math.min or Math.max methods for this assignment
 
 ### Solution 
 
