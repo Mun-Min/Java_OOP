@@ -45,3 +45,7 @@ store the value returned by the FahrenheitToKelvin method in another double vari
     K = (F - 32) * 5 / 9 + 273.15
 
 Remember that you can use System.out.printf to format your outputs so that they have the required number of decimal places
+
+### Solution 
+
+[TempConversion.java](/Individual_Assignments_01\Fahrenheit_to_Kelvin\TempConversion.java)
