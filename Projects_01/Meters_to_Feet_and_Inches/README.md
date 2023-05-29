@@ -34,10 +34,10 @@ Here are some examples showing what the value returned by your MetersToFeetAndIn
 
 You must also write a small program in the main method that will:
 
-* prompt the user to enter a distance in Meters
-* collect and store the user's input in a double variable
-* call the MetersToFeetAndInches method, passing the user's input as an argument
-* store the value returned by the MetersToFeetAndInches method in another String variable
+* Prompt the user to enter a distance in Meters
+* Collect and store the user's input in a double variable
+* Call the MetersToFeetAndInches method, passing the user's input as an argument
+* Store the value returned by the MetersToFeetAndInches method in another String variable
 * Display the Feet and Inches equivalent value 
 
 ### Example Output

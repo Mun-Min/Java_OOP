@@ -32,10 +32,10 @@ Write a public static method named getInitials:
 
 You must also write a small program in the main method that will:
 
-* prompt the user to enter a name
-* collect and store the user's input in a String variable
-* call the getInitials method, passing the user's input as an argument
-* store the value returned by the getInitials method in another String variable
+* Prompt the user to enter a name
+* Collect and store the user's input in a String variable
+* Call the getInitials method, passing the user's input as an argument
+* Store the value returned by the getInitials method in another String variable
 * Display the name and initials as shown in the examples below
 
         Example 1
