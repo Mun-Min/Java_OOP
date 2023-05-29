@@ -15,9 +15,10 @@
 * Use parameter variables in a method body
 * Write a return statement
 * Use math operators to construct an expression
-* Problem Description and Given Info
 
-### Write a public static method named FahrenheitToKelvin
+### Problem Description and Given Info
+
+Write a public static method named FahrenheitToKelvin:
 
 * FahrenheitToKelvin will take a single argument of type double and will return a double. 
 * When called, and passed a temperature value (in Fahrenheit), this method must compute and return the Kelvin temperature equivalent. 
