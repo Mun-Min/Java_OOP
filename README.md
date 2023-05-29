@@ -13,15 +13,21 @@ Feel free to explore each project's directory for detailed information, code sam
 ---
 
 #### Project Set #1
-  * [Fahrenheit_to_Kelvin](./Projects_01/Fahrenheit_to_Kelvin)
 
-  * [Meters_to_Feet_and_Inches](./Projects_01/Meters_to_Feet_and_Inches)
+<div align="left">
 
-  * [Names_to_Initials](./Projects_01/Name_to_Initials)
+* [Fahrenheit_to_Kelvin](./Projects_01/Fahrenheit_to_Kelvin)
 
-  * [Diff_Between_Min_and_Max](./Projects_01/Diff_Between_Min_and_Max)
+* [Meters_to_Feet_and_Inches](./Projects_01/Meters_to_Feet_and_Inches)
 
-  * [Make_Box](./Projects_01/Make_Box)
+* [Names_to_Initials](./Projects_01/Name_to_Initials)
+
+* [Diff_Between_Min_and_Max](./Projects_01/Diff_Between_Min_and_Max)
+
+* [Make_Box](./Projects_01/Make_Box)
+
+</div>
+
 
 ---
 
