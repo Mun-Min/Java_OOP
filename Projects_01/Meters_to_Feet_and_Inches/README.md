@@ -67,4 +67,4 @@ You must also write a small program in the main method that will:
 
 ### Solution 
 
-[Converter.java](https://github.com/Mun-Min/Java_OOP/blob/main/Individual_Assignments_01/Meters_to_Feet_and_Inches/Converter.java)
+[Converter.java](https://github.com/Mun-Min/Java_OOP/blob/main/Projects_01/Meters_to_Feet_and_Inches/Converter.java)

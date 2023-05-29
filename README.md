@@ -9,9 +9,9 @@ This repository serves as a resource for learning and practicing Java OOP concep
 
 Feel free to explore each project's directory for detailed information, code samples, and exercises.
 
-[Fahrenheit_to_Kelvin](./Individual_Assignments_01/Fahrenheit_to_Kelvin)
+[Fahrenheit_to_Kelvin](./Projects_01/Fahrenheit_to_Kelvin)
 
-[Meters_to_Feet_and_Inches](./Individual_Assignments_01/Meters_to_Feet_and_Inches)
+[Meters_to_Feet_and_Inches](./Projects_01/Meters_to_Feet_and_Inches)
 
 
 ### Requirements

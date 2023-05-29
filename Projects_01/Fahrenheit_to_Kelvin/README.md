@@ -49,4 +49,4 @@ Remember that you can use System.out.printf to format your outputs so that they 
 
 ### Solution 
 
-[TempConversion.java](https://github.com/Mun-Min/Java_OOP/blob/main/Individual_Assignments_01/Fahrenheit_to_Kelvin/TempConversion.java)
+[TempConversion.java](https://github.com/Mun-Min/Java_OOP/blob/main/Projects_01/Fahrenheit_to_Kelvin/TempConversion.java)
