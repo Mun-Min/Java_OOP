@@ -48,6 +48,12 @@ Navigate to the specific project directory you wish to explore:
 
     cd project-directory
 
+Example of how to utilize `cd` command in Git Version Control Terminal:  
+<p align="center">
+  <img src="./Images/git_cd_usage.png" alt="Git CD Usage">
+</p>
+
+
 Follow the instructions provided in the project's README or source files to understand the concepts and complete any exercises or tasks.
 
 Experiment with the code, modify it, and adapt it to further your understanding of Java OOP.
