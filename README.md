@@ -1,4 +1,5 @@
 # Java Object-Oriented-Programming Projects 
+
 <p align="center">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.teahub.io%2Fphotos%2Ffull%2F21-217981_java-logo-wallpaper-java-logo.jpg&f=1&nofb=1&ipt=39edd306ad7187d644efabba711a6c452e027ca11f46366b2998b990e1aec887&ipo=images" alt="Java Programming">
 </p>
@@ -15,7 +16,10 @@ Feel free to explore each project's directory for detailed information, code sam
 
 [Names_to_Initials](./Projects_01/Name_to_Initials)
 
+[Diff_Between_Min_and_Max](./Projects_01/Diff_Between_Min_and_Max)
+
 ### Requirements
+
 To run and experiment with the projects in this repository, ensure that you have the following:
 
 Java Version: 
@@ -38,6 +42,7 @@ Utilizing Conda Environment for Java:
 [Optional] Integrated Development Environment (IDE) such as IntelliJ IDEA or Eclipse for an enhanced development experience. However, using a plain text editor and command-line tools will also suffice.
 
 ### Usage
+
 To use the projects in this repository, follow these steps:
 
 Clone the repository to your local machine using the following command:
