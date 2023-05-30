@@ -63,7 +63,7 @@ Write a java program that will collect the following 4 inputs from the user:
 
 ### Hints and Helpful Info
 
-* It can help to break this process down into steps.
+* It can help to break this process down into steps
 * To print the box, you must print a number of lines of text (specifically height lines of text)
 * For each line of text that you print, you must print a number of characters (Specifically width characters)
 * Each character is either a border character or an interior character
