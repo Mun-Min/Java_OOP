@@ -11,11 +11,15 @@ This repository serves as a resource for learning and practicing Java OOP concep
 Feel free to explore each project's directory for detailed information, code samples, and exercises.
 
 ---
-#### Beginners Set #1
+#### Beginners Set
 
-#### Project Set #1
+<div align="left">
 
 * [Hello_World](/Hello_World)
+
+</div>
+
+#### Project Set #1
 
 <div align="left">
 
