@@ -26,8 +26,10 @@ Create a program that simulates a physical pen and displays its attributes to th
     - An `is_Clicked` variable that holds a boolean value representing whether the pen is clicked or not
 
 * Implement the following methods in the `Pen` class:
-    - `pen_Color()`: Returns the color of the pen
-    - `pen_Type()`: Returns the ball-point type of the pen in millimeters
+    - `get_pen_Color()`: Returns the color of the pen
+    - `get_pen_Type()`: Returns the ball-point type of the pen in millimeters
+    - `set_pen_Type()`: Re-assigns the color of the pen to a new color
+    - `set_pen_Type()`: Re-assigns the ball-point type of the pen to a new ball-pointtype
     - `Click()`: Simulates clicking the pen and returns `true` to indicate that it can write
     - `un_Click()`: Simulates unclicking the pen and returns `false` to indicate that it cannot write
     
@@ -35,9 +37,15 @@ Create a program that simulates a physical pen and displays its attributes to th
 
 ### Example Output
 
+    $ java Main
+
     Color of the Pen: Black
 
+    New Color of the Pen: Blue
+
     Ball-Point type of the Pen (in mm): 10
+
+    New Ball-Point type of the Pen (in mm): 5
 
     The pen is able to write now that it is clicked: true
 
