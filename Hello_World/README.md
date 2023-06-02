@@ -17,17 +17,17 @@ Methodology.
 * Use variables to name, store, and retrieve values
 * Use parameter variables in a method body
 * Write a return statement
-* Use the System.out.println() method to print output to the console
+* Use the `System.out.println()` method to print output to the console
 * Utilize object-oriented programming (OOP) methodology
 * Understand the concept of classes and objects
-* Understand the main method and its role in Java programs
+* Understand the `main` method and its role in Java programs
 * Understand how to compile and run Java programs
 
 ### Problem Description and Given Info
 
-* Write a public method named sayHello that will print the output to the console
+* Write a public method named `sayHello` that will print the output to the console
 
-* When called in the Main class, the output should be displayed in the console
+* When called in the `Main` class, the output should be displayed in the console
 
 ### Example Output 
 
@@ -47,3 +47,5 @@ Methodology.
 * [Main.java](/Hello_World/Main.java)
 
 * [Test.java](/Hello_World/Test.java)
+
+---

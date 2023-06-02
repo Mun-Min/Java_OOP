@@ -4,8 +4,8 @@
 
 * Use variables to name, store, and retrieve values
 
-* Use System.out.print to prompt the user for input
-* Use a Scanner to collect user input
+* Use `System.out.print` to prompt the user for input
+* Use a `Scanner` to collect user input
 * Use loops to get the computer to repeat instructions
 * Use nested loops to construct an algorithm
 
@@ -64,6 +64,7 @@ Write a java program that will collect the following 4 inputs from the user:
 ### Hints and Helpful Info
 
 * It can help to break this process down into steps
+
 * To print the box, you must print a number of lines of text (specifically height lines of text)
 * For each line of text that you print, you must print a number of characters (Specifically width characters)
 * Each character is either a border character or an interior character
@@ -78,3 +79,5 @@ Write a java program that will collect the following 4 inputs from the user:
 ### Solution 
 
 [Box.java](https://github.com/Mun-Min/Java_OOP/blob/main/Projects_01/Make_Box/Box.java)
+
+---

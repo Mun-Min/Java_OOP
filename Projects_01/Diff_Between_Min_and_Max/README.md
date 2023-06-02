@@ -7,13 +7,13 @@
 * Write a method according to given specifications
 * Write a method that takes arguments and returns a value
 * Use parameter variables in a method body
-* Write a return statement
+* Write a `return` statement
 * Use math operators to construct an expression
 * Use an if statement to get the computer to make a decision
 
 ### Problem Description and Given Info
 
-* Write a public static method named DiffMinMax that will take three arguments of type int and will return a int
+* Write a public static method named `DiffMinMax` that will take three arguments of type int and will return a int
 
 * When called, and passed three int values, this method must compute and return the positive difference between the minimum and maximum of the three argument values
 
@@ -31,8 +31,10 @@
 
 * You will need to write code to determine the minimum and the maximum argument values passed to the method
 
-* Do not use Math.min or Math.max methods for this assignment
+* Do not use `Math.min` or `Math.max` methods for this assignment
 
 ### Solution 
 
 [Main.java](https://github.com/Mun-Min/Java_OOP/blob/main/Projects_01/Diff_Between_Min_and_Max/Main.java)
+
+---
