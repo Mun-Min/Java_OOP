@@ -15,14 +15,28 @@ public class Pen {
     // variable that holds the boolean value of the clicking of the pen
     public boolean is_Clicked = false; 
 
+    // getter functions 
+
     // function that returns the color of the pen 
-    public String pen_Color() { 
+    public String get_pen_Color() { 
         return color; 
     }
 
     // function that returns the ball-point type of the pen in mm 
-    public int pen_Type() { 
+    public int get_pen_Type() { 
         return type; 
+    }
+
+    // setter functions 
+    
+    // function that re-assigns original color to a new color 
+    public void set_pen_Color(String new_color) { 
+        color = new_color; 
+    }
+
+    // function that re-assigns original ball-point type to a new ball-point type
+    public void set_pen_Type(int new_type) { 
+        type = new_type; 
     }
 
     // function that simulates the clicking of the pen 
