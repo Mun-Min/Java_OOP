@@ -2,7 +2,7 @@
 
 This program finds the maximum and minimum values in a given array of integers.
 
-## Required Skills Inventory
+### Required Skills Inventory
 
 - Define and declare methods
 
@@ -14,7 +14,7 @@ This program finds the maximum and minimum values in a given array of integers.
 - Understand the `main` method and its role in Java programs
 - Understand how to compile and run Java programs
 
-## Problem Description and Given Info
+### Problem Description and Given Info
 
 The program includes the following:
 
@@ -40,7 +40,7 @@ Max and Min Value of Array {1, 2, 3, 4, 5}:
 - There should be no `System.out.print` or `System.out.println` statements in your `maxAndMin` method
 - There should be no calls to any Scanner methods (like `next`, `nextLine`, or `nextInt`) in you `maxAndMin` method
 
-## Solution
+### Solution
 
 To see the code solution, please check the following file:
 
