@@ -22,7 +22,7 @@ The program includes the following:
 
 - The `maxAndMin` method, which takes an array of integers as input and returns an array containing the maximum and minimum values.
 
-## Example Output
+### Example Output
 
 The program will output the maximum and minimum values in the given array.
 
