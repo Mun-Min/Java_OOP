@@ -28,7 +28,7 @@ Create a program that simulates a physical pen and displays its attributes to th
 * Implement the following methods in the `Pen` class:
     - `get_pen_Color()`: Returns the color of the pen
     - `get_pen_Type()`: Returns the ball-point type of the pen in millimeters
-    - `set_pen_Type()`: Re-assigns the color of the pen to a new color
+    - `set_pen_Color()`: Re-assigns the color of the pen to a new color
     - `set_pen_Type()`: Re-assigns the ball-point type of the pen to a new ball-pointtype
     - `Click()`: Simulates clicking the pen and returns `true` to indicate that it can write
     - `un_Click()`: Simulates unclicking the pen and returns `false` to indicate that it cannot write
