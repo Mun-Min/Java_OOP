@@ -34,6 +34,13 @@ Average and Sum of Array {1, 2, 3, 4, 5}:
 {3.0, 15.0}
 ```
 
+### Helpful Info:
+
+- You may want to write a `main` method to call and test your `avgAndSum` method
+
+- There should be no `System.out.print` or `System.out.println` statements in your `avgAndSum` method
+- There should be no calls to any Scanner methods (like `next`, `nextLine`, or `nextInt`) in you `avgAndSum` method
+
 ### Solution
 
 * [Main.java](/Projects_02/Average_and_Sum/Main.java)

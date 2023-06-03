@@ -33,6 +33,13 @@ Max and Min Value of Array {1, 2, 3, 4, 5}:
 {5, 1}
 ```
 
+### Helpful Info:
+
+- You may want to write a `main` method to call and test your required method
+
+- There should be no `System.out.print` or `System.out.println` statements in your `maxAndMin` method
+- There should be no calls to any Scanner methods (like `next`, `nextLine`, or `nextInt`) in you `maxAndMin` method
+
 ## Solution
 
 To see the code solution, please check the following file:
