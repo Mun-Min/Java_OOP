@@ -37,6 +37,15 @@ Feel free to explore each project's directory for detailed information, code sam
 
 </div>
 
+#### Project Set #2
+
+<div align="left">
+
+* [Average_and_Sum](./Projects_02/Average_and_Sum)
+
+
+</div>
+
 
 ---
 
