@@ -43,6 +43,7 @@ Feel free to explore each project's directory for detailed information, code sam
 
 * [Average_and_Sum](./Projects_02/Average_and_Sum)
 
+* [Max_and_Min](./Projects_02/Max_and_Min)
 
 </div>
 
