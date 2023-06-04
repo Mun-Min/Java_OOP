@@ -44,6 +44,8 @@ Methodology.
 
 ### Solution 
 
+To see the code solution, please check the following file:
+
 * [Main.java](/Hello_World/Main.java)
 
 * [Test.java](/Hello_World/Test.java)
