@@ -58,6 +58,8 @@ Create a program that simulates a physical pen and displays its attributes to th
 
 ### Solution
 
+To see the code solution, please check the following file:
+
 * [Main.java](/Projects_01/Pen/Main.java)
 * [Pen.java](/Projects_01/Pen/Pen.java)
 

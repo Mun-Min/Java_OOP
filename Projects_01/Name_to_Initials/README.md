@@ -75,6 +75,8 @@ You must also write a small program in the `main` method that will:
 
 ### Solution 
 
+To see the code solution, please check the following file:
+
 [Initials.java](https://github.com/Mun-Min/Java_OOP/blob/main/Projects_01/Name_to_Initials/Initials.java)
 
 ---

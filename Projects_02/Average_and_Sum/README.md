@@ -43,6 +43,8 @@ Average and Sum of Array {1, 2, 3, 4, 5}:
 
 ### Solution
 
+To see the code solution, please check the following file:
+
 * [Main.java](/Projects_02/Average_and_Sum/Main.java)
 
 ---

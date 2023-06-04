@@ -78,6 +78,8 @@ Write a java program that will collect the following 4 inputs from the user:
 
 ### Solution 
 
+To see the code solution, please check the following file:
+
 [Box.java](https://github.com/Mun-Min/Java_OOP/blob/main/Projects_01/Make_Box/Box.java)
 
 ---

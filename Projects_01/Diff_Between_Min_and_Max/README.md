@@ -35,6 +35,8 @@
 
 ### Solution 
 
+To see the code solution, please check the following file:
+
 [Main.java](https://github.com/Mun-Min/Java_OOP/blob/main/Projects_01/Diff_Between_Min_and_Max/Main.java)
 
 ---
