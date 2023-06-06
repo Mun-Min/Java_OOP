@@ -45,6 +45,8 @@ Feel free to explore each project's directory for detailed information, code sam
 
 * [Max_and_Min](./Projects_02/Max_and_Min)
 
+* [Odd_and_Even](./Projects_02/Odd_and_Even)
+
 </div>
 
 
