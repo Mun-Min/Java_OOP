@@ -5,8 +5,8 @@ public class Main {
       double [] result = avgAndSum(myArray); // call avgAndSum method and pass in the given array
       
       // display results
-      System.out.println("\nAverage and Sum value of Array: {1, 2, 3, 4, 5}"); 
-      System.out.println("\n{" + result[0] + ", " + result[1] + "}"); 
+      System.out.println("\nAverage and Sum value of Array {1, 2, 3, 4, 5}: "); 
+      System.out.println("\n{" + result[0] + ", " + result[1] + "}\n"); 
     }
     
     /**

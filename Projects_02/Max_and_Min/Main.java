@@ -2,8 +2,8 @@ public class Main {
     public static void main(String [] args) { 
        int [] myArray = {1, 2, 3, 4, 5}; // given array
        int [] result = maxAndMin(myArray); // call maxAndMin method and pass in given array
-       System.out.println("\nMax and Min value of Array: {1, 2, 3, 4, 5}"); 
-       System.out.println("\n{" + result[0] + ", " + result[1] + "}"); 
+       System.out.println("\nMax and Min value of Array {1, 2, 3, 4, 5}: "); 
+       System.out.println("\n{" + result[0] + ", " + result[1] + "}\n"); 
     }
     
     /**
