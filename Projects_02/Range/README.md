@@ -36,6 +36,8 @@ Difference between the maximum and minimum values in the argument array {1, 2, 3
 
 ### Solution
 
+To see the code solution, please check the following file:
+
 * [Main.java](/Projects_02/Range/Main.java)
 
 ---

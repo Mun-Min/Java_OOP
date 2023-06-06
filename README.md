@@ -49,6 +49,8 @@ Feel free to explore each project's directory for detailed information, code sam
 
 * [Range](./Projects_02/Range)
 
+* [Count_Greater_Than_Average](./Projects_02/Count_Greater_Than_Average)
+
 </div>
 
 
