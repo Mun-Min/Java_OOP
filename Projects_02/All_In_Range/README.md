@@ -1,4 +1,4 @@
-# Program Name: Range Filter
+# Range Filter
 
 This program demonstrates the usage of the `inRange` method. The `inRange` method returns an ArrayList containing all the elements in the argument ArrayList that are between the second argument value and the third argument value (inclusive).
 
