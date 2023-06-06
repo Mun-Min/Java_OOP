@@ -51,6 +51,8 @@ Feel free to explore each project's directory for detailed information, code sam
 
 * [Count_Greater_Than_Average](./Projects_02/Count_Greater_Than_Average)
 
+* [All_In_Range](./Projects_02/All_In_Range)
+
 </div>
 
 
