@@ -1,4 +1,4 @@
-# Program Name: Count Greater Than Average
+# Count Greater Than Average
 
 This program computes the count of values in an array that are greater than the average of all the values in the array.
 
