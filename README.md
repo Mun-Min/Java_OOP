@@ -47,6 +47,8 @@ Feel free to explore each project's directory for detailed information, code sam
 
 * [Odd_and_Even](./Projects_02/Odd_and_Even)
 
+* [Range](./Projects_02/Range)
+
 </div>
 
 
