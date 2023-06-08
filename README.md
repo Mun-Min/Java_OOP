@@ -57,7 +57,7 @@ Feel free to explore each project's directory for detailed information, code sam
 
 * [All_Duplicates](./Projects_02/All_Duplicates)
 
-* [All_Duplicates](./Projects_02/All_In_Both)
+* [All_In_Both](./Projects_02/All_In_Both)
 
 </div>
 
