@@ -11,7 +11,7 @@ This repository serves as a resource for learning and practicing Java OOP concep
 Feel free to explore each project's directory for detailed information, code samples, and exercises.
 
 ---
-#### Beginners Set
+#### Beginner Set
 
 <div align="left">
 
