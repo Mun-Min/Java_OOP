@@ -55,7 +55,9 @@ Feel free to explore each project's directory for detailed information, code sam
 
 * [All_Less_Than_Average](./Projects_02/All_Less_Than_Average )
 
-* [All_Duplicates](./Projects_02/All_Duplicates )
+* [All_Duplicates](./Projects_02/All_Duplicates)
+
+* [All_Duplicates](./Projects_02/All_In_Both)
 
 </div>
 
