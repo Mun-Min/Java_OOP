@@ -53,6 +53,8 @@ Feel free to explore each project's directory for detailed information, code sam
 
 * [All_In_Range](./Projects_02/All_In_Range)
 
+* [All_Less_Than_Average ](./Projects_02/All_Less_Than_Average )
+
 </div>
 
 
