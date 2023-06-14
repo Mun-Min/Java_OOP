@@ -11,53 +11,21 @@ This repository serves as a resource for learning and practicing Java OOP concep
 Feel free to explore each project's directory for detailed information, code samples, and exercises.
 
 ---
-#### Beginner Set
 
-<div align="left">
+<div align="center">
 
-* [Hello_World](/Hello_World)
+| Beginner Set | Project Set #1 | Project Set #2 |
+| ------------ | -------------- | -------------- |
+| [Hello_World](/Hello_World) | [Fahrenheit_to_Kelvin](./Projects_01/Fahrenheit_to_Kelvin) | [Average_and_Sum](./Projects_02/Average_and_Sum) |
+|               | [Meters_to_Feet_and_Inches](./Projects_01/Meters_to_Feet_and_Inches) | [Max_and_Min](./Projects_02/Max_and_Min) |
+|               | [Names_to_Initials](./Projects_01/Name_to_Initials) | [Odd_and_Even](./Projects_02/Odd_and_Even) |
+|               | [Diff_Between_Min_and_Max](./Projects_01/Diff_Between_Min_and_Max) | [Range](./Projects_02/Range) |
+|               | [Make_Box](./Projects_01/Make_Box) | [Count_Greater_Than_Average](./Projects_02/Count_Greater_Than_Average) |
+|               | [Pen](./Projects_01/Pen) | [All_In_Range](./Projects_02/All_In_Range) |
+|               | | [All_Less_Than_Average](./Projects_02/All_Less_Than_Average) |
+|               | | [All_Duplicates](./Projects_02/All_Duplicates) |
+|               | | [All_In_Both](./Projects_02/All_In_Both) |
 
-</div>
-
-#### Project Set #1
-
-<div align="left">
-
-* [Fahrenheit_to_Kelvin](./Projects_01/Fahrenheit_to_Kelvin)
-
-* [Meters_to_Feet_and_Inches](./Projects_01/Meters_to_Feet_and_Inches)
-
-* [Names_to_Initials](./Projects_01/Name_to_Initials)
-
-* [Diff_Between_Min_and_Max](./Projects_01/Diff_Between_Min_and_Max)
-
-* [Make_Box](./Projects_01/Make_Box)
-
-* [Pen](./Projects_01/Pen)
-
-</div>
-
-#### Project Set #2
-
-<div align="left">
-
-* [Average_and_Sum](./Projects_02/Average_and_Sum)
-
-* [Max_and_Min](./Projects_02/Max_and_Min)
-
-* [Odd_and_Even](./Projects_02/Odd_and_Even)
-
-* [Range](./Projects_02/Range)
-
-* [Count_Greater_Than_Average](./Projects_02/Count_Greater_Than_Average)
-
-* [All_In_Range](./Projects_02/All_In_Range)
-
-* [All_Less_Than_Average](./Projects_02/All_Less_Than_Average )
-
-* [All_Duplicates](./Projects_02/All_Duplicates)
-
-* [All_In_Both](./Projects_02/All_In_Both)
 
 </div>
 
