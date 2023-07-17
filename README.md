@@ -1,7 +1,7 @@
 # Java Object-Oriented-Programming Projects 
 
 <p align="center">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.teahub.io%2Fphotos%2Ffull%2F21-217981_java-logo-wallpaper-java-logo.jpg&f=1&nofb=1&ipt=39edd306ad7187d644efabba711a6c452e027ca11f46366b2998b990e1aec887&ipo=images" alt="Java Programming">
+  <img src="./Images/Java.jpg" alt="Java Programming">
 </p>
 
 This repository contains a collection of Java projects that demonstrate various concepts and techniques of Object Oriented Programming (OOP) in Java.
