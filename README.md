@@ -16,7 +16,7 @@ Feel free to explore each project's directory for detailed information, code sam
 
 | Beginner Set | Project Set #1 | Project Set #2 | Project Set #3 |
 | ------------ | -------------- | -------------- | -------------- |
-| [Hello_World](/Hello_World) | [Fahrenheit_to_Kelvin](./Projects_01/Fahrenheit_to_Kelvin) | [Average_and_Sum](./Projects_02/Average_and_Sum) | [BankAccount](./Projects_03/Bank_Account) |
+| [Hello_World](/Hello_World) | [Fahrenheit_to_Kelvin](./Projects_01/Fahrenheit_to_Kelvin) | [Average_and_Sum](./Projects_02/Average_and_Sum) | [Bank_Account](./Projects_03/Bank_Account) |
 |               | [Meters_to_Feet_and_Inches](./Projects_01/Meters_to_Feet_and_Inches) | [Max_and_Min](./Projects_02/Max_and_Min) |     |
 |               | [Names_to_Initials](./Projects_01/Name_to_Initials) | [Odd_and_Even](./Projects_02/Odd_and_Even) |  |
 |               | [Diff_Between_Min_and_Max](./Projects_01/Diff_Between_Min_and_Max) | [Range](./Projects_02/Range) |  |
