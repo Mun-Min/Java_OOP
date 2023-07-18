@@ -1,6 +1,8 @@
-// Implement your SavingsAccount class in this file
+// This is the SavingsAccount class that extends the BankAccount class.
+
 public class SavingsAccount extends BankAccount {
     
+    // Method to debit funds from the savings account.
     public boolean debit(int amount) {
         if (amount <= balance) {
             balance -= amount;
@@ -9,6 +11,7 @@ public class SavingsAccount extends BankAccount {
         return false;
     }
     
+    // Method to apply interest to the savings account balance.
     public void applyInterest() {
         if (balance > 0) {
             double interestAmount = balance * interestRate;
@@ -16,6 +19,7 @@ public class SavingsAccount extends BankAccount {
         }
     }
     
+    // Method to get account information for the savings account.
     public String accountInfo() {
         String info = "Type of Account : Savings\n";
         info += "Account ID      : " + getAccountID() + "\n";
