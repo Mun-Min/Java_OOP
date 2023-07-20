@@ -14,8 +14,6 @@ Feel free to explore each project's directory for detailed information, code sam
 
 <div align="center">
 
-## Project Sets
-
 | Beginner Set | Project Set #1 | Project Set #2 | Project Set #3 | Project Set #4 |
 | ------------ | -------------- | -------------- | -------------- | -------------- |
 | [Hello_World](/Hello_World) | [Fahrenheit_to_Kelvin](./Projects_01/Fahrenheit_to_Kelvin) | [Average_and_Sum](./Projects_02/Average_and_Sum) | [Bank_Account](./Projects_03/Bank_Account) | [My_Array_List](./Projects_04/MyArrayList) |
@@ -27,8 +25,6 @@ Feel free to explore each project's directory for detailed information, code sam
 |               | | [All_Less_Than_Average](./Projects_02/All_Less_Than_Average) |  |  |
 |               | | [All_Duplicates](./Projects_02/All_Duplicates) |  |  |
 |               | | [All_In_Both](./Projects_02/All_In_Both) |  |  |
-
-
 
 
 </div>
