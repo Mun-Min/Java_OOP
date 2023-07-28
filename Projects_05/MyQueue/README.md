@@ -15,7 +15,7 @@ You are required to create a public class named `MyQueue` in Java, which impleme
 ### MyQueue Class Diagram
 
 <p align="center">
-  <img src="./Images/MyStackUML.png" alt="UML Class Diagram: MyQueue">
+  <img src="./Images/MyQueueUML.png" alt="UML Class Diagram: MyQueue">
 </p>
 
 ## Structure of the Methods
