@@ -17,7 +17,7 @@ Feel free to explore each project's directory for detailed information, code sam
 | Beginner Set | Project Set #1 | Project Set #2 | Project Set #3 | Project Set #4 | Project Set #5 |
 | ------------ | -------------- | -------------- | -------------- | -------------- | -------------- |
 | [Hello_World](/Hello_World) | [Fahrenheit_to_Kelvin](./Projects_01/Fahrenheit_to_Kelvin) | [Average_and_Sum](./Projects_02/Average_and_Sum) | [Bank_Account](./Projects_03/Bank_Account) | [My_Array_List](./Projects_04/MyArrayList) | [My_Stack](./Projects_05/MyStack) |
-|               | [Meters_to_Feet_and_Inches](./Projects_01/Meters_to_Feet_and_Inches) | [Max_and_Min](./Projects_02/Max_and_Min) | [Savings_Account](./Projects_03/Savings_Account) | [My_Linked_List](./Projects_04/MyLinkedList) |  |
+|               | [Meters_to_Feet_and_Inches](./Projects_01/Meters_to_Feet_and_Inches) | [Max_and_Min](./Projects_02/Max_and_Min) | [Savings_Account](./Projects_03/Savings_Account) | [My_Linked_List](./Projects_04/MyLinkedList) | [My_Queue](./Projects_05/MyQueue) |
 |               | [Names_to_Initials](./Projects_01/Name_to_Initials) | [Odd_and_Even](./Projects_02/Odd_and_Even) |  [Checking_Account](./Projects_03/Checking_Account) | |  |
 |               | [Diff_Between_Min_and_Max](./Projects_01/Diff_Between_Min_and_Max) | [Range](./Projects_02/Range) | [CreditCard_Account](./Projects_03/CreditCard_Account) |  |  |
 |               | [Make_Box](./Projects_01/Make_Box) | [Count_Greater_Than_Average](./Projects_02/Count_Greater_Than_Average) |  |  |  |
