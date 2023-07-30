@@ -20,7 +20,7 @@ Feel free to explore each project's directory for detailed information, code sam
 |               | [Meters_to_Feet_and_Inches](./Projects_01/Meters_to_Feet_and_Inches) | [Max_and_Min](./Projects_02/Max_and_Min) | [Savings_Account](./Projects_03/Savings_Account) | [My_Linked_List](./Projects_04/MyLinkedList) | [My_Queue](./Projects_05/MyQueue) |
 |               | [Names_to_Initials](./Projects_01/Name_to_Initials) | [Odd_and_Even](./Projects_02/Odd_and_Even) |  [Checking_Account](./Projects_03/Checking_Account) | | [My_BS_Tree](./Projects_05/MyBSTree) |
 |               | [Diff_Between_Min_and_Max](./Projects_01/Diff_Between_Min_and_Max) | [Range](./Projects_02/Range) | [CreditCard_Account](./Projects_03/CreditCard_Account) |  | [My_Quick_Sort](./Projects_05/MyQuickSort) |
-|               | [Make_Box](./Projects_01/Make_Box) | [Count_Greater_Than_Average](./Projects_02/Count_Greater_Than_Average) |  |  |  |
+|               | [Make_Box](./Projects_01/Make_Box) | [Count_Greater_Than_Average](./Projects_02/Count_Greater_Than_Average) |  |  | [My_Merge_Sort](./Projects_05/MyMergeSort) |
 |               | [Pen](./Projects_01/Pen) | [All_In_Range](./Projects_02/All_In_Range) |  |  |  |
 |               | | [All_Less_Than_Average](./Projects_02/All_Less_Than_Average) |  |  |  |
 |               | | [All_Duplicates](./Projects_02/All_Duplicates) |  |  |  |

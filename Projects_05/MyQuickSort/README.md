@@ -50,7 +50,7 @@ To see the code solution, please check the following file:
 * [Main.java](/Projects_05/MyQuickSort/Main.java)
 
 * [IList.java](/Projects_05/MyQuickSort/IList.java)
-* [MyArrayList.java](/Projects_05/MyQuickSort/MyBSTree.java)
-* [MySorts.java](/Projects_05/MyQuickSort/MyBSTree.java)
+* [MyArrayList.java](/Projects_05/MyQuickSort/MyArrayList.java)
+* [MySorts.java](/Projects_05/MyQuickSort/MySorts.java)
 
 ---
